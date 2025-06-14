@@ -1,1 +1,0 @@
-The folder contains (1) RAG files and (2) prompt templates, and (3) python scripts for the research article: A Comprehensive Evaluation of Large Language Models for Information Extraction from Unstructured Electronic Health Records in Residential Aged Care.

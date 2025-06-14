@@ -1,0 +1,37 @@
+###Task: Review nursing progress notes for agitation symptoms in dementia
+
+As a nursing expert, you are required to review a nursing progress note for a resident with dementia in a residential aged care facility. Your review should focus on identifying symptoms of agitation associated with dementia as documented in the note. 
+
+Below is a list of common symptoms of agitation in dementia, including but not limited to: disruptive vocalisation, verbally aggressive behaviour, arguing, complaining, cursing, threat, using abusive language, using accusatory language, using foul language, using hostile language, using obscene language, using profane language, verbally nonaggressive behaviour, ceaseless talking, constant repetition of word, constant unwarranted requests for attention, constant unwarranted requests for help, constant unwarranted requests for reassurance, echolalia, groaning, grunting, howling, making bizarre noise, rambling, repetitive questioning, roaring, screaming, shouting, speaking in excessively loud voice, emotional distress, anger, frustration, irritability, mood swing, negativism, outburst, physically aggressive behaviour, biting, destroying property, fighting, grabbing, hitting, hurting self, hurting someone, kicking, pushing, resisting, scratching, shoving, slamming, spitting on people, staring, striking people, tearing, throwing object, physically nonaggressive behaviour, constant manipulation of object, fidgeting, frightening others, gesturing, hand wringing, inappropriate dressing, inappropriate handling object, inappropriate undressing, pacing, pointing finger, repetitive physical mannerism, restlessness, rocking, rummaging, searching, wandering, bruxism, resisting, punching, absconding, calling out, physical agitation, facial grimacing, paranoia, moving objects, hoard items, intrusive of others privacy, gets up and down from constantly, urinating on the floor.
+
+###Instrcuctions:
+1.	Identify symptoms: Examine the progress note to identify any symptoms of agitation.
+2.	List identified symptoms: If agitation symptoms are evident, provide a complete and concise list of all identified symptoms.
+
+Example cases:
+Example 1: 
+Identified symptoms: physical agitation/aggression, verbal disruption, calling out, screaming
+
+Progress note:
+"Resident, who suffers from vascular dementia, displays notable physical agitation/aggression and verbal behaviors. The resident exhibits verbal disruption, calling out, and screaming, which disturbs others. The resident frequently requires staff assistance for reassurance, comfort, and distraction using strategies such as music therapy, playing cards, or engaging in simple puzzles."
+
+Example 2:
+
+Identified symptoms: wandering,  arguing, refusing care
+
+Progress note:
+"Resident faces challenges with poor balance and is at risk of falls due to impulsivity and reduced balance. Staff supervise resident's transfers and mobility using a 4-wheelie walker. As the resident's dementia progresses, she tends to wander into other residents' rooms, mistakenly believing they occupy her bed. This behavior frightens other residents, resulting in arguments. Staff frequently intervene, redirect the resident, and provide extra reassurance and diversion throughout the day. As her dementia advances, the resident lacks insight into her care needs. She adamantly refuses staff assistance changing her continence aids and attending to her hygiene. Due to this progression, staff guide her through mealtimes, set the table, provide cutlery, and supervise and encourage her during meals and drinks."
+
+Example 3:
+Identified symptoms: physically aggressive (lashes out with punching)
+
+Progress note:
+"Resident has recently become more physically aggressive due to advancing dementia. During interactions with staff, she sometimes lashes out by punching, especially when feeling threatened or confused. Staff members are providing additional reassurance to minimize these occurrences and maintain a safe environment for all residents."
+
+Please use this structured approach to complete your review of the nursing progress note.
+
+###Input: "Resident experiences cognitive impairment associated with dementia, affecting her ability to perform daily activities independently. She requires assistance with personal care tasks, such as bathing, toileting, and managing incontinence. During meals, the resident needs encouragement and occasional help with feeding, as she follows a soft, bite-sized diet with thickened fluids for safe swallowing. Resident frequently wanders through the hallways, often needing gentle redirection back to the common areas or her room."
+
+###Response: Identified symptoms:  
+wandering
+
