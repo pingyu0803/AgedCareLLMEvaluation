@@ -1,7 +1,16 @@
 
 # A Comprehensive Evaluation of Large Language Models for Information Extraction from Unstructured Electronic Health Records in Residential Aged Care
+Dinithi Vithanage1, Ping Yu1, *, Qianqian Xie2, Hua Xu2 Lei Wang1, Chao Deng3 
+
+1	School of Computing and Information Technology, University of Wollongong, Wollongong, Australia
+2	Department of Biomedical Informatics and Data Science, Yale University, USA.
+3	School of Medical, Indigenous and Health Sciences, University of Wollongong, Wollongong, Australia
+
 
 This repository contains all necessary components to implement and evaluate a Retrieval-Augmented Generation (RAG) pipeline using large language models (LLMs) for information extraction from unstructured Electronic Health Records (EHRs) in Residential Aged Care.
+Citation: Vithanage, D., Yu, P., Xie, Q., Xu, H., Wang, L., Deng, C. (2025) A comprehensive evaluation of large language models for information extraction from unstructured electronic health records in residential aged care. Computers in Biology and Medicine 197(Pt A): p. 111013.
+
+
 
 ## 🔍 Overview
 
