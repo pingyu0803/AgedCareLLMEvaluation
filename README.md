@@ -9,9 +9,6 @@ Dinithi Vithanage1, Ping Yu1, *, Qianqian Xie2, Hua Xu2 Lei Wang1, Chao Deng3
 
 This repository contains all necessary components to implement and evaluate a Retrieval-Augmented Generation (RAG) pipeline using large language models (LLMs) for information extraction from unstructured Electronic Health Records (EHRs) in Residential Aged Care.
 
-Citation: Vithanage, D., Yu, P., Xie, Q., Xu, H., Wang, L., Deng, C. (2025) A comprehensive evaluation of large language models for information extraction from unstructured electronic health records in residential aged care. Computers in Biology and Medicine 197(Pt A): p. 111013.
-
-
 
 ## 🔍 Overview
 
@@ -117,7 +114,9 @@ For questions or reproduction guidance, please refer to the corresponding resear
 
 ## 📜 Citation
 
-If you use this work, please cite the accompanying research paper (details in publication).
+If you use this work, please cite the accompanying research paper:
+
+Vithanage, D., Yu, P., Xie, Q., Xu, H., Wang, L., Deng, C. (2025) A comprehensive evaluation of large language models for information extraction from unstructured electronic health records in residential aged care. Computers in Biology and Medicine 197(Pt A): p. 111013.
 
 ---
 
